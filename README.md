@@ -11,7 +11,7 @@
 8. [References](#references)
 
 ## Project Overview
-This project involves scraping data from a Wikipedia page that lists the largest companies in the United States by revenue. The goal is to extract this data, clean it, and analyze it to gain insights into the top-performing companies.
+This project involves scraping data from a Wikipedia page listing the largest companies in the United States by revenue. The goal is to extract this data into a DataFrame for analysis to gain insights into the top-performing companies.
 
 ## Data Sources
 - **Wikipedia Page**: [List of largest companies in the United States by revenue](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
