@@ -5,7 +5,7 @@
 2. [Data Sources](#data-sources)
 3. [Tools](#tools)
 4. [Data Cleaning/Preparation](#data-cleaningpreparation)
-5. [Detailed Project Code with Notes](#detailed-project-code-with-notes)
+5. [Code](#code)
 6. [Recommendations](#recommendations)
 7. [Limitations](#limitations)
 8. [References](#references)
