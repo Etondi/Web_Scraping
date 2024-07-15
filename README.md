@@ -5,7 +5,7 @@
 2. [Data Sources](#data-sources)
 3. [Tools](#tools)
 4. [Data Cleaning/Preparation](#data-cleaningpreparation)
-5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+5. [Detailed Project Code with Notes)](#detailed_project_code_with_nores)
 6. [Data Analysis](#data-analysis)
 7. [Results/Findings](#resultsfindings)
 8. [Recommendations](#recommendations)
