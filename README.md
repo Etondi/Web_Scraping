@@ -30,7 +30,7 @@ This project involves scraping data from a Wikipedia page that lists the largest
 4. **Cleaning Data**: Removed unnecessary whitespace and formatted the data properly.
 5. **Storing Data**: Saved the cleaned data into a Pandas DataFrame and exported it to a CSV file.
 
-## Detailed Project Code with Notes
+## Code
 
 ```python
 # Import necessary libraries
