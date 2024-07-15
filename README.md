@@ -5,12 +5,10 @@
 2. [Data Sources](#data-sources)
 3. [Tools](#tools)
 4. [Data Cleaning/Preparation](#data-cleaningpreparation)
-5. [Detailed Project Code with Notes)](#detailed_project_code_with_nores)
-6. [Data Analysis](#data-analysis)
-7. [Results/Findings](#resultsfindings)
-8. [Recommendations](#recommendations)
-9. [Limitations](#limitations)
-10. [References](#references)
+5. [Detailed Project Code with Notes)](#detailed_project_code_with_notes)
+6. [Recommendations](#recommendations)
+7. [Limitations](#limitations)
+8. [References](#references)
 
 ## Project Overview
 This project involves scraping data from a Wikipedia page that lists the largest companies in the United States by revenue. The goal is to extract this data, clean it, and analyze it to gain insights into the top-performing companies.
@@ -72,12 +70,6 @@ for row in column_data[1:]:
 # Export the DataFrame to a CSV file in the 'data' directory
 df.to_csv('data/web_scraping_data.csv', index=False)
 ```
-
-## Exploratory Data Analysis (EDA)
-- Not applicable for this project as the focus is on web scraping and data extraction.
-
-## Data Analysis
-- The data analysis part is not covered in this guided project. The primary objective was to extract and clean the data.
 
 ## Results/Findings
 - Successfully extracted and cleaned the data from the Wikipedia page.
